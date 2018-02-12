@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<conio.h>
 int a[10];
 int b[10];
 void merging(int low, int mid, int high) {
